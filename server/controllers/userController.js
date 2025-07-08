@@ -1,3 +1,4 @@
+
 // Get User data using Token (JWT)
 // GET /api/user/
 export const getUserData = async (req, res) => {
